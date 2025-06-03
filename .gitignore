@@ -1,1 +1,5 @@
-.env
+vernacularbotplanto/.env
+
+__pycache__/
+*.pyc
+.vscode/
